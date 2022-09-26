@@ -8,6 +8,6 @@ Seguirem les pases per instal·lar el servidor Owncloud. [Tutorial instal·laci�
 
 També ho anirem fent a classe.
 
-Al document de Github **activitat2.md** anireu escrivint una guia d’instal·lació amb el que feu i captures de pantalla de totes les comandes utilitzades i les respostes del S.O.
+Al document de Github **activitat2.md** anireu escrivint una **guia d’instal·lació** amb el que feu i captures de pantalla de totes les comandes utilitzades i les respostes del S.O.
 
-Canvieu el vostre hostname pel vostre codi d’alumne indicat.
+
