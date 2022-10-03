@@ -16,10 +16,18 @@ Ara instal·leu Owncloud seguint el tutorial.
 
 Expliqueu com fer la instal·lació pas a pas.
 
+El nom de domini vostre serà owncloud.XYZ.com on XYZ són les vostres inicials.
+
 Expliqueu:
 
--Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+- Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 
 ![](https://dungeonofbits.com/images/owncloud1.jpg)
+
+- Què fa la comanda a2ensite?
+
+- I la comando a2dissite?
+
+- 
 
 
