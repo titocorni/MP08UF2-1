@@ -10,4 +10,16 @@ També ho anirem fent a classe.
 
 Al document de Github **activitat2.md** anireu escrivint una **guia d’instal·lació** amb el que feu i captures de pantalla de totes les comandes utilitzades i les respostes del S.O.
 
+---------------------------------------------------------------------------------------------------------
+
+Ara instal·leu Owncloud seguint el tutorial.
+
+Expliqueu com fer la instal·lació pas a pas.
+
+Expliqueu:
+
+-Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+
+![](https://dungeonofbits.com/images/owncloud1.jpg)
+
 
