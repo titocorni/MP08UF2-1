@@ -28,6 +28,8 @@ Expliqueu:
 
 - I la comando a2dissite?
 
-- 
+- Què significa la línia de /etc/hosts 
+  - 127.0.0.1 owncloud.XYZ.com
+  -  
 
 
